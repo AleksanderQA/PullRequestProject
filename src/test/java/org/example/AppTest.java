@@ -20,7 +20,11 @@ public class AppTest {
         Assertions.assertFalse(false);
     }
     @Test
-    public void fourtDummyTest (){
+    public void fourthDummyTest (){
         Assertions.assertTrue(true);
+    }
+    @Test
+    public void fivethDummyTest (){
+        Assertions.assertFalse(false);
     }
 }
